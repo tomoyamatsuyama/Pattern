@@ -16,7 +16,7 @@ public class Solver {
 			
 			if (fLD >= 1.0) {
 				kaitou[i] = "C";
-			} else if (-0.8 < fLD && fLD <= -0.166) {
+			} else if (-1.07 < fLD && fLD <= 1.24) {
 				kaitou[i] = "B";
 			} else {
 				kaitou[i] = "A";
